@@ -6,12 +6,12 @@ with open("README.md", "r") as fh:
 setuptools.setup(
     name="<my-package>",
     version="0.0.0",
-    author="Harry Wei",
-    author_email="pepsimixt@gmail.com",
+    author="<my-name>",
+    author_email="<my-email>",
     description="<my-package-description>",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/haochuanwei/<my-package>",
+    url="https://my.home.page",
     packages=setuptools.find_packages(),
     install_requires=[
     ],
